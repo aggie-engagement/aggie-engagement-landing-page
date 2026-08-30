@@ -43,10 +43,11 @@ GitHub Pages automatically deploys changes pushed to the production branch.
 ## Handoff Status
 - [x] Production repository identified
 - [x] GitHub Pages deployment identified
-- [x] `AGENTS.md` created locally
-- [x] `PROJECT_HANDOFF.md` created locally
-- [x] `PROJECT_STATUS.md` created locally
-- [ ] Documentation files committed and pushed to GitHub
+- [x] `AGENTS.md` created, committed, and pushed to GitHub
+- [x] `PROJECT_HANDOFF.md` created, committed, and pushed to GitHub
+- [x] `PROJECT_STATUS.md` created, committed, and pushed to GitHub
+- [x] `MAINTENANCE_GUIDE.md` created locally and reviewed
+- [ ] `MAINTENANCE_GUIDE.md` committed and pushed to GitHub
 - [ ] New GitHub organization owner added
 - [ ] Successor added to repository/project
 - [ ] Successor setup walkthrough completed
@@ -68,7 +69,7 @@ Add unfinished website improvements, requested changes, or known future updates 
 
 Recommended future work:
 
-- Commit and push `AGENTS.md`, `PROJECT_HANDOFF.md`, and `PROJECT_STATUS.md` after review.
+- Commit and push `MAINTENANCE_GUIDE.md` after final approval.
 - Verify the GitHub Pages live redirect behavior from the root page.
 - Confirm all external URLs are still correct.
 - Web-optimize large image assets, especially `sagebrushawardphoto.jpg`.
