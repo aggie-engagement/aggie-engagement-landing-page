@@ -778,6 +778,12 @@ a {
   color: var(--white);
 }
 
+@media (min-width: 1121px) {
+  .about-copy h2 {
+    font-size: clamp(2.15rem, 4.7vw, 4.7rem);
+  }
+}
+
 @media (max-width: 1120px) {
   .site-header {
     align-items: flex-start;
@@ -881,6 +887,10 @@ a {
 
   .hero h1 {
     font-size: clamp(3rem, 16vw, 5.2rem);
+  }
+
+  .about-copy h2 {
+    font-size: clamp(1.1rem, 10.75vw, 2.15rem);
   }
 
   .hero-headline {

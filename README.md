@@ -1,6 +1,6 @@
-# Aggie Engagement Landing Page
+# AggiesLead Landing Page
 
-This repository contains the Utah State Athletics Aggie Engagement website.
+This repository contains the Utah State Athletics AggiesLead website.
 
 ## Live Website
 https://aggie-engagement.github.io/aggie-engagement-landing-page/

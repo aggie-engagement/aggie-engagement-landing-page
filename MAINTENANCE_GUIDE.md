@@ -1,7 +1,7 @@
-# Aggie Engagement Website Maintenance Guide
+# AggiesLead Website Maintenance Guide
 
 ## Start Here
-This guide is for the Utah State Athletics staff member who inherits the Aggie Engagement website. You do not need previous knowledge of the original creator's computer setup or any past ChatGPT/Codex conversations to use it.
+This guide is for the Utah State Athletics staff member who inherits the AggiesLead website. You do not need previous knowledge of the original creator's computer setup or any past ChatGPT/Codex conversations to use it.
 
 ## What You Need
 Before you can maintain the website, you will need a few basic programs and accounts. These tools let you access the website files, preview changes on your computer, and publish approved updates.
@@ -62,7 +62,7 @@ You do NOT need:
 GitHub Pages handles the hosting for this website.
 
 ## Initial Setup
-Use these steps when setting up the Aggie Engagement website on a computer for the first time.
+Use these steps when setting up the AggiesLead website on a computer for the first time.
 
 1. Get GitHub access
 
@@ -146,7 +146,7 @@ If you only see `index.html` and `styles.css`, you may have opened the `aggie-en
 When you start a new Codex session for this website, paste this starter prompt:
 
 ```text
-I am taking over maintenance of the Aggie Engagement website. Before making any changes, read AGENTS.md, PROJECT_HANDOFF.md, PROJECT_STATUS.md, and MAINTENANCE_GUIDE.md. Then inspect the repository structure so you understand how the website works. Do not modify, commit, or push anything yet. Tell me when you understand the project and summarize the maintenance workflow for me.
+I am taking over maintenance of the AggiesLead website. Before making any changes, read AGENTS.md, PROJECT_HANDOFF.md, PROJECT_STATUS.md, and MAINTENANCE_GUIDE.md. Then inspect the repository structure so you understand how the website works. Do not modify, commit, or push anything yet. Tell me when you understand the project and summarize the maintenance workflow for me.
 ```
 
 This lets Codex learn the project from the repository documentation instead of needing access to any previous maintainer's conversations.
@@ -519,7 +519,7 @@ Caution: check spelling carefully and preview the website afterward.
 
 2. Updating links
 
-What to ask Codex: update a survey link, social media link, external Aggie Engagement link, or button destination.
+What to ask Codex: update a survey link, social media link, external athletics program page link, or button destination.
 
 Usually involved: `aggie-engagement/index.html`
 
@@ -693,7 +693,7 @@ Keep these project-specific facts handy:
 
 11. The site is simple static HTML/CSS. It has no frontend framework, no JavaScript-driven behavior, no external font setup, and normal content/design updates usually do not require new dependencies.
 
-12. Hardcoded items in the main page may need maintenance over time: contact email, phone, location, social links, survey/form link, external Aggie Engagement page link, and program names/descriptions.
+12. Hardcoded items in the main page may need maintenance over time: contact email, phone, location, social links, survey/form link, external athletics program page link, and program names/descriptions.
 
 13. No staff names are currently hardcoded into the webpage.
 

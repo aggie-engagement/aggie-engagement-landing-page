@@ -1,9 +1,9 @@
-﻿# Aggie Engagement Website - Project Status
+﻿# AggiesLead Website - Project Status
 
 Last updated: August 30, 2026
 
 ## Current Status
-The Aggie Engagement landing page is live and functioning.
+The AggiesLead landing page is live and functioning.
 
 The Git repository root is the outer `Aggie Engagement Landing Page` folder. Future maintainers should work from the repository root, not from only the `aggie-engagement` subfolder.
 

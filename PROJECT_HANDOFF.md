@@ -1,7 +1,7 @@
-﻿# Aggie Engagement Website - Project Handoff
+﻿# AggiesLead Website - Project Handoff
 
 ## Project Overview
-This repository contains the Utah State Athletics Aggie Engagement landing page.
+This repository contains the Utah State Athletics AggiesLead landing page.
 
 The goal of this handoff is to make sure future staff can fully maintain the website without relying on the original creator.
 
@@ -118,7 +118,7 @@ The following items are hardcoded in `aggie-engagement/index.html` and may need 
 - location: `Logan, Utah`
 - social media links
 - survey URL: `https://utahstateaggies.com/sb_output.aspx?form=77`
-- external Aggie Engagement URL: `https://utahstateaggies.com/sports/2025/5/5/Aggie-engagement.aspx`
+- external athletics program page URL: `https://utahstateaggies.com/sports/2025/5/5/Aggie-engagement.aspx`
 - program names, descriptions, highlights, and section text
 
 There are no staff names hardcoded in the webpage.
@@ -131,7 +131,7 @@ Shared images are stored in `assets/`.
 ## GitHub Ownership
 At the time this handoff documentation was created, the original maintainer was the only owner of the `aggie-engagement` GitHub organization.
 
-Before the original maintainer leaves, organization ownership should be transferred to permanent Utah State Athletics / Aggie Engagement staff.
+Before the original maintainer leaves, organization ownership should be transferred to permanent Utah State Athletics / AggiesLead staff.
 
 Ideally, at least two appropriate staff members should have Owner access to the organization.
 

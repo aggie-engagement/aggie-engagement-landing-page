@@ -40,5 +40,5 @@ createServer(async (req, res) => {
     res.end("Not found");
   }
 }).listen(port, () => {
-  console.log(`Aggie Engagement preview: http://localhost:${port}/aggie-engagement/`);
+  console.log(`AggiesLead preview: http://localhost:${port}/aggie-engagement/`);
 });

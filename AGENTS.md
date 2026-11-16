@@ -1,9 +1,9 @@
-﻿# Aggie Engagement Website - Codex Instructions
+﻿# AggiesLead Website - Codex Instructions
 
 ## Project Purpose
-This repository contains the Utah State Athletics Aggie Engagement landing page.
+This repository contains the Utah State Athletics AggiesLead landing page.
 
-The website should remain clean, professional, modern, easy to navigate, and consistent with Utah State Athletics / Aggie Engagement branding.
+The website should remain clean, professional, modern, easy to navigate, and consistent with Utah State Athletics / AggiesLead branding.
 
 Future maintainers may not have extensive coding experience. Explain technical steps clearly and do as much of the implementation directly as is safely possible.
 
@@ -132,7 +132,7 @@ Avoid:
 Graphics should clearly relate to the program or section they represent.
 
 ## Content
-Aggie Engagement includes areas such as:
+AggiesLead includes areas such as:
 
 - Aggies Lead / student-athlete development
 - A-Club / alumni engagement
